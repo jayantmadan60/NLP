@@ -1,6 +1,6 @@
 # NLP
 
-Natural Language processing, a sub-field of machine learning has gained immense popularity in the last 5 years in both research and industrial applications due to the advancement in the field of deep learning and improvement in the computational power of hardware systems. It is a technique for computers to understand how human languages work involving the usage of computational linguistics and the computer science domain. In recent years, NLP has found its usage in several applications related to understanding and interpreting text, audio, and video files.
+Natural Language processing, a field of machine learning has gained immense popularity in the last 5 years in both research and industrial applications due to the advancement in the field of deep learning and improvement in the computational power of hardware systems. It is a technique for computers to understand how human languages work involving the usage of computational linguistics and the computer science domain. In recent years, NLP has found its usage in several applications related to understanding and interpreting text, audio, and video files.
 
 ##  Sentiment Analysis
 
